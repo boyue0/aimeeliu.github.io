@@ -6,7 +6,7 @@
   <link href="https://boyue0.github.io/atom.xml" rel="self"/>
   
   <link href="https://boyue0.github.io/"/>
-  <updated>2021-03-24T09:29:36.738Z</updated>
+  <updated>2021-03-24T09:57:09.396Z</updated>
   <id>https://boyue0.github.io/</id>
   
   <author>
@@ -17,18 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo</title>
+    <link href="https://boyue0.github.io/2021/03/24/Hexo/"/>
+    <id>https://boyue0.github.io/2021/03/24/Hexo/</id>
+    <published>2021-03-24T09:40:13.067Z</published>
+    <updated>2021-03-24T09:57:09.396Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hexo 利用 browsersync 进行自动刷新：<br><a href="https://blog.singee.me/2018/05/16/hexo/hexo-auto-refresh/">https://blog.singee.me/2018/05/16/hexo/hexo-auto-refresh/</a></p><p>设置搜索: <a href="https://www.jianshu.com/p/d388119a90ec">https://www.jianshu.com/p/d388119a90ec</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hexo 利用 browsersync 进行自动刷新：&lt;br&gt;&lt;a href=&quot;https://blog.singee.me/2018/05/16/hexo/hexo-auto-refresh/&quot;&gt;https://blog.singee.me/2018/05/16/hexo</summary>
+      
+    
+    
+    
+    <category term="工具" scheme="https://boyue0.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="工具" scheme="https://boyue0.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
     <title>aaa</title>
     <link href="https://boyue0.github.io/2020/08/30/aa/"/>
     <id>https://boyue0.github.io/2020/08/30/aa/</id>
     <published>2020-08-30T12:32:37.000Z</published>
-    <updated>2021-03-24T09:29:36.738Z</updated>
+    <updated>2021-03-24T09:39:42.221Z</updated>
     
-    <content type="html"><![CDATA[<p>sdfasdfasdfasdfasdf</p>]]></content>
+    <content type="html"><![CDATA[<p>sdfasdfasdfasdfasdfjklasdjflasjdlfjasldjkf</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;sdfasdfasdfasdfasdf&lt;/p&gt;
+    <summary type="html">&lt;p&gt;sdfasdfasdfasdfasdfjklasdjflasjdlfjasldjkf&lt;/p&gt;
 </summary>
       
     
