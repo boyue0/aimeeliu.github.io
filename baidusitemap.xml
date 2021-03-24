@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://boyue0.github.io/2020/08/30/test/</loc>
+    <lastmod>2021-03-24</lastmod>
+  </url>
+  <url>
     <loc>https://boyue0.github.io/2020/08/30/hello-world/</loc>
     <lastmod>2021-03-24</lastmod>
   </url>
   <url>
     <loc>https://boyue0.github.io/2020/08/30/aa/</loc>
     <lastmod>2021-03-24</lastmod>
-  </url>
-  <url>
-    <loc>https://boyue0.github.io/2020/08/30/test/</loc>
-    <lastmod>2020-08-30</lastmod>
   </url>
 </urlset> 
